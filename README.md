@@ -7,3 +7,5 @@ Maven3 - Logos [lesson 18](https://github.com/ana-radchuk/SpringExcercises/tree/
 
 Maven4 - Logos [lesson 19](https://github.com/ana-radchuk/SpringExcercises/tree/maven4---fileUpload)
 
+Maven5 - Logos [lesson 20](https://github.com/ana-radchuk/SpringExcercises/tree/maven5---springSecurity)
+
